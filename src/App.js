@@ -43,7 +43,6 @@ pic:"https://bestprofilepictures.com/wp-content/uploads/2021/04/Cool-Profile-Pic
  </div>
  ); 
 }
-
 function Welcome(props){
   console.log(props);
  return( 
